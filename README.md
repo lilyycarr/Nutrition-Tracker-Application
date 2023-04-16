@@ -3,9 +3,9 @@
 Languages used: C++
 
 Program Objectives:
--Track one’s daily nutrient intake
--Compare to the recommended nutrient guidelines
--Give recommendations based on nutrient deficiencies / excess nutrient intake. 
+- Track one’s daily nutrient intake
+- Compare to the recommended nutrient guidelines
+- Give recommendations based on nutrient deficiencies / excess nutrient intake. 
 
 The user will enter their age (to confirm that they are an adult - this program will use recommended intakes for people over 18) and gender
 (can skip if they prefer not to answer). Then, the user will be prompted for what they ate for each meal (breakfast, lunch, dinner, then snacks). 
