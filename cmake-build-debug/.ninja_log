@@ -1,0 +1,7 @@
+# ninja log v5
+6	1363	6991348578928633	CMakeFiles/Test.dir/Test.cpp.obj	7ab446b3b234dee0
+15	1400	6991348579311316	CMakeFiles/Test.dir/FoodSummary.cpp.obj	ae4c046a65ec5df9
+868	1086	6991422546580773	M2OEP-Lacarr.exe	2aec99eda20c6da3
+18	1243	6991343991484861	CMakeFiles/Test.dir/Meal.cpp.obj	599a94b22d398445
+46	2401	6991322598030318	CMakeFiles/Test.dir/Food.cpp.obj	f45cea55f81d8873
+1400	1684	6991348582065458	Test.exe	1f02507a33043e7e

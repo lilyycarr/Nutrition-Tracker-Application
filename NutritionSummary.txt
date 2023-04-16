@@ -1,0 +1,64 @@
+                        Your Nutrition Summary
+
+Age: 22
+Gender: f
+
+Breakfast
+Food: cereal
+Calories: 200
+Carbohydrates: 40
+Fat: 3
+Protein: 10
+Sugar: 20
+Sodium: 100
+
+Dinner
+Food: pasta
+Calories: 600
+Carbohydrates: 40
+Fat: 20
+Protein: 30
+Sugar: 0
+Sodium: 500
+
+Food: chicken
+Calories: 300
+Carbohydrates: 40
+Fat: 20
+Protein: 20
+Sugar: 0
+Sodium: 500
+
+Food: salad
+Calories: 300
+Carbohydrates: 20
+Fat: 20
+Protein: 40
+Sugar: 0
+Sodium: 500
+
+Snacks
+Food: ice cream
+Calories: 300
+Carbohydrates: 40
+Fat: 20
+Protein: 10
+Sugar: 30
+Sodium: 200
+
+Food: chips
+Calories: 200
+Carbohydrates: 20
+Fat: 10
+Protein: 3
+Sugar: 20
+Sodium: 400
+
+Total Calories: 1900
+Total Carbohydrates: 200 grams
+Total Fat: 93 grams
+Total Protein: 113 grams
+Total Sugar: 70 grams
+Total Sodium: 2200 milligrams
+
+Today, you were 100 calories below the daily recommended intake of 2000 calories.

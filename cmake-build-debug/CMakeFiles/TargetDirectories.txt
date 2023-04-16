@@ -1,0 +1,4 @@
+C:/Users/lilyy/CLionProjects/Nutrition-Tracker-Application/cmake-build-debug/CMakeFiles/Nutrition-Tracker_Application.dir
+C:/Users/lilyy/CLionProjects/Nutrition-Tracker-Application/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/lilyy/CLionProjects/Nutrition-Tracker-Application/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lilyy/CLionProjects/Nutrition-Tracker-Application/cmake-build-debug/CMakeFiles/rebuild_cache.dir
