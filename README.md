@@ -1,6 +1,11 @@
 # Nutrition-Tracker-Application
-The purpose of this program is to track one’s daily nutrient intake, and compare it to the recommended nutrient 
-guidelines, then give recommendations based on nutrient deficiencies / excess nutrient intake. 
+
+Languages used: C++
+
+Program Objectives:
+-Track one’s daily nutrient intake
+-Compare to the recommended nutrient guidelines
+-Give recommendations based on nutrient deficiencies / excess nutrient intake. 
 
 The user will enter their age (to confirm that they are an adult - this program will use recommended intakes for people over 18) and gender
 (can skip if they prefer not to answer). Then, the user will be prompted for what they ate for each meal (breakfast, lunch, dinner, then snacks). 
