@@ -8,7 +8,7 @@
 ## Program Objectives:
 - Track one’s daily nutrient intake
 - Compare to the recommended nutrient guidelines
-- Give recommendations based on nutrient deficiencies / excess nutrient intake. 
+- Give recommendations based on nutrient deficiencies / excess nutrient intake
 
 ## Program Overview: 
 The user will enter their age (to confirm that they are an adult - this program will use recommended intakes for people over 18) and gender
