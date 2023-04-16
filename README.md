@@ -1,6 +1,9 @@
 # Nutrition-Tracker-Application
 
-## Languages used: C++
+## Languages used: 
+- C++
+- C
+- CMake
 
 ## Program Objectives:
 - Track one’s daily nutrient intake
